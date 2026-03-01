@@ -666,9 +666,9 @@ auto_update    "yes"
 
 ### 🔧 Команды и конфиги
 ##### 📁 Файлы конфигурации
-[Mikrotik](configs/mikrotik-backup.rsc) — полный экспорт конфигурации MikroTik (для Wi-Fi укажите свой пароль)
-[MPD](configs/mpd.conf) — конфигурационный файл MPD
-[fstab](configs/fstab) — таблица монтирования дисков на сервере
+- [Mikrotik](configs/mikrotik-backup.rsc) — полный экспорт конфигурации MikroTik (для Wi-Fi укажите свой пароль)
+- [MPD](configs/mpd.conf) — конфигурационный файл MPD
+- [fstab](configs/fstab) — таблица монтирования дисков на сервере
 
 ---
 
